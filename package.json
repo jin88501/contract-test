@@ -1,6 +1,6 @@
 {
   "private": true,
-  "repository": "git@github.com:sartaj/demo-app.git",
+  "repository": "git@github.com:sartaj/contract-test.git",
   "scripts": {
     "dev:server": "cd packages/demo-server && yarn start",
     "dev:web": "cd packages/demo-client && yarn start",
